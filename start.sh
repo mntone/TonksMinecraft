@@ -19,7 +19,7 @@ if [ $ME == $USERNAME ]; then
 		echo 'Minecraft is already running!'
 	else
 		echo 'Starting Minecraft...'
-		screen -AmdS $SCREEN_NAME java -XX:PermSize=$PERMSIZE -XX:MaxPermSize=$PERMSIZE -Xms$XMS -Xmx$XMX -XX:+UseG1GC -jar $JARFILE nogui
+		screen -AmdSU $SCREEN_NAME java -XX:PermSize=$PERMSIZE -XX:MaxPermSize=$PERMSIZE -Xms$XMS -Xmx$XMX -XX:+UseG1GC -jar $JARFILE nogui
 	fi
 else
 	echo "Please run the $USERNAME user."
