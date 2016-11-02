@@ -10,6 +10,7 @@ XMS="1g"
 XMX="1g"
 
 cd $MCPATH
+LANG=ja_JP.UTF-8
 
 ME=`whoami`
 
