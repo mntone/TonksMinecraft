@@ -37,7 +37,7 @@ if [ $ME == $USERNAME ]; then
 		screen -p 0 -S $SCREEN_NAME -X eval 'stuff "say オートセーブが再開されました"\015'
 
 		if [ $? == 0 ]; then
-			git commit origin master
+			git push origin master
 		fi
 
 		echo 'Backup completed!'
