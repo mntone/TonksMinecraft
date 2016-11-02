@@ -1,0 +1,11 @@
+# Ignore
+!.gitkeep
+
+# Files
+eula.txt
+*.jar
+
+# Directories
+/libraries/
+/crash-reports/
+/logs/

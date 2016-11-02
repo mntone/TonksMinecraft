@@ -1,0 +1,7 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - modifyworld.*
+    - -modifyworld.damage.deal.animal.wolf.*
+schema-version: 1
