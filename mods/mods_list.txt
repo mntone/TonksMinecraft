@@ -15,3 +15,4 @@ Railcraft_1.7.10-9.12.2.0.jar
 ThermalDynamics-[1.7.10]1.2.0-171.jar
 ThermalExpansion-[1.7.10]4.1.4-247.jar
 ThermalFoundation-[1.7.10]1.2.5-115.jar
+write_mods.sh
