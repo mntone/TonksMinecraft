@@ -1,11 +1,13 @@
 [1.7.10]Better_Furnaces_V4.3.jar
-buildcraft-7.1.18.jar
+buildcraft-7.1.18-builders.jar
+buildcraft-7.1.18-core.jar
+buildcraft-7.1.18-energy.jar
+buildcraft-7.1.18-factory.jar
+buildcraft-compat-7.1.5.jar
 ChickenChunks-1.7.10-1.3.4.16-universal.jar
 CodeChickenCore-1.7.10-1.0.4.29-universal.jar
 CoFHCore-[1.7.10]3.1.3-327.jar
-ExtraTanks-for-7.1.14.jar
-ironchest-1.7.10-6.0.62.742-universal.jar
-PermissionForge-1.7.10-1.0.4.jar
+forestry_1.7.10-4.2.16.64.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar
@@ -15,4 +17,3 @@ Railcraft_1.7.10-9.12.2.0.jar
 ThermalDynamics-[1.7.10]1.2.0-171.jar
 ThermalExpansion-[1.7.10]4.1.4-247.jar
 ThermalFoundation-[1.7.10]1.2.5-115.jar
-write_mods.sh
